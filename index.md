@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-Hello, Welcome to my site!
+Hello, welcome to my site!
 
 My name is Robert and I am currently a biology major at UMass Amherst. 
+
+## A Little Bit about Me
+
+I love baking and was an avid science bowl competitor. Nowadays, I spend my time writing questions and slaving away at Cumby's. 
 
 # **Events that I Ran**
 
