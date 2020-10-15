@@ -4,7 +4,7 @@ Hello, Welcome to my site!
 
 My name is Robert and I am currently a biology major at UMass Amherst. 
 
-# Events that I Ran
+# **Events that I Ran**
 
 <img align="left" width="200" height="200" src="images/download.jpg">
 
