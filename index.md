@@ -13,7 +13,7 @@ My name is Robert and I am currently a biology major at UMass Amherst.
   <img width="300" height="200" src="images/71TCuDobhEL.__AC_SY300_QL70_ML2_.jpg">
 </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+arkdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
