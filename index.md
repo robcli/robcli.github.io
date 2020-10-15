@@ -13,6 +13,7 @@ My name is Robert and I am currently a biology major at UMass Amherst.
   <img width="300" height="200" src="images/71TCuDobhEL.__AC_SY300_QL70_ML2_.jpg">
 </p>
 
-To check out LexSciBowl, click __[here]__(https://lexscibowl.org/)
+**To check out LexSciBowl**, click [here](https://lexscibowl.org/)
+\n
 To check out LOST 2020, click [here](https://sites.google.com/lexingtonma.org/lost/home?authuser=1) 
 
