@@ -1,12 +1,10 @@
-# Welcome to GitHub Pages
+# Portfolio
 
-Hello, welcome to my site!
+My name is Robert and I am currently a biology major, computer science minor at UMass Amherst. 
 
-My name is Robert and I am currently a biology major at UMass Amherst. 
+## Projects
 
-## A Little Bit about Me
 
-I love baking and was an avid science bowl competitor. Nowadays, I spend my time writing questions and slaving away at Cumby's. 
 
 # **Events that I Ran**
 
